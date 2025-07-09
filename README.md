@@ -6,6 +6,7 @@ A simple Python-based LAN chat application that enables multiple users to commun
 - Real-time messaging over LAN
 - Multiple client support
 - Nickname-based identification
+- Colour coding for users to ease readability
 - Join/Leave notifications
 - Clean user interface with command prompt
 - Exit with /quit command
