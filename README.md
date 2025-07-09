@@ -39,7 +39,7 @@ python3 client.py --host SERVER_IP_ADDRESS --port 12345
 
 ### Setup Instructions
 1. Clone the repository
-    git clone https://github.com/YOUR_USERNAME/lan-chat.git
+    git clone https://github.com/nberts/lan-chat.git
     cd lan-chat
 2. Start the server on one machine
 3. Connect clients from other machines using the server's IP address.
